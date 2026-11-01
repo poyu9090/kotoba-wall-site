@@ -1,2 +1,3 @@
 # kotoba-wall-site
-Support &amp; privacy pages for LockVocab - Japanese Wors
+
+Support & privacy pages for LockVocab - Japanese Words
