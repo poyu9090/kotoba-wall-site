@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "videos": {
+    "install": {
+      "zh": {
+        "url": "install-zh.mp4",
+        "duration": 22.5,
+        "steps": [
+          0.0,
+          5.3,
+          19.5
+        ],
+        "rev": 1
+      }
+    },
+    "auto": {
+      "zh": {
+        "url": "auto-zh.mp4",
+        "duration": 48.0,
+        "steps": [
+          0.0,
+          5.0,
+          8.5,
+          13.3,
+          23.5,
+          32.0,
+          44.5
+        ],
+        "rev": 1
+      }
+    },
+    "build": {
+      "zh": {
+        "url": "build-zh.mp4",
+        "duration": 47.5,
+        "steps": [
+          0.0,
+          2.5,
+          4.0,
+          10.0,
+          12.3,
+          18.0,
+          25.0,
+          43.5
+        ],
+        "rev": 1
+      }
+    }
+  }
+}
