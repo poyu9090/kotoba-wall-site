@@ -1,89 +1,128 @@
 {
-  "version": 1,
-  "videos": {
-    "install": {
-      "zh": {
-        "url": "install-zh.mp4",
-        "duration": 22.5,
-        "steps": [
-          0.0,
-          5.3,
-          19.5
-        ],
-        "rev": 1
-      },
-      "en": {
-        "url": "install-en.mp4",
-        "duration": 21.1,
-        "steps": [
-          0.0,
-          5.1,
-          18.6
-        ],
-        "rev": 1
-      }
-    },
-    "auto": {
-      "zh": {
-        "url": "auto-zh.mp4",
-        "duration": 48.0,
-        "steps": [
-          0.0,
-          5.0,
-          8.5,
-          13.3,
-          23.5,
-          32.0,
-          44.5
-        ],
-        "rev": 1
-      },
-      "en": {
-        "url": "auto-en.mp4",
-        "duration": 47.3,
-        "steps": [
-          0.0,
-          5.8,
-          10.8,
-          13.3,
-          24.3,
-          30.3,
-          42.3
-        ],
-        "rev": 1
-      }
-    },
-    "build": {
-      "zh": {
-        "url": "build-zh.mp4",
-        "duration": 47.5,
-        "steps": [
-          0.0,
-          2.5,
-          4.0,
-          10.0,
-          12.3,
-          18.0,
-          25.0,
-          43.5
-        ],
-        "rev": 1
-      },
-      "en": {
-        "url": "build-en.mp4",
-        "duration": 38.5,
-        "steps": [
-          0.0,
-          3.7,
-          5.4,
-          9.7,
-          10.7,
-          16.0,
-          22.0,
-          34.5
-        ],
-        "rev": 1
-      }
-    }
+ "version": 1,
+ "videos": {
+  "install": {
+   "zh": {
+    "url": "install-zh.mp4",
+    "duration": 22.5,
+    "steps": [
+     0.0,
+     5.3,
+     19.5
+    ],
+    "rev": 1
+   },
+   "en": {
+    "url": "install-en.mp4",
+    "duration": 21.1,
+    "steps": [
+     0.0,
+     5.1,
+     18.6
+    ],
+    "rev": 1
+   },
+   "ko": {
+    "url": "install-ko.mp4",
+    "duration": 19.6,
+    "steps": [
+     0.0,
+     4.8,
+     15.6
+    ],
+    "rev": 1
+   }
+  },
+  "auto": {
+   "zh": {
+    "url": "auto-zh.mp4",
+    "duration": 48.0,
+    "steps": [
+     0.0,
+     5.0,
+     8.5,
+     13.3,
+     23.5,
+     32.0,
+     44.5
+    ],
+    "rev": 1
+   },
+   "en": {
+    "url": "auto-en.mp4",
+    "duration": 47.3,
+    "steps": [
+     0.0,
+     5.8,
+     10.8,
+     13.3,
+     24.3,
+     30.3,
+     42.3
+    ],
+    "rev": 1
+   },
+   "ko": {
+    "url": "auto-ko.mp4",
+    "duration": 50.7,
+    "steps": [
+     0.0,
+     7.1,
+     12.4,
+     14.9,
+     24.2,
+     35.9,
+     45.7
+    ],
+    "rev": 1
+   }
+  },
+  "build": {
+   "zh": {
+    "url": "build-zh.mp4",
+    "duration": 47.5,
+    "steps": [
+     0.0,
+     2.5,
+     4.0,
+     10.0,
+     12.3,
+     18.0,
+     25.0,
+     43.5
+    ],
+    "rev": 1
+   },
+   "en": {
+    "url": "build-en.mp4",
+    "duration": 38.5,
+    "steps": [
+     0.0,
+     3.7,
+     5.4,
+     9.7,
+     10.7,
+     16.0,
+     22.0,
+     34.5
+    ],
+    "rev": 1
+   },
+   "ko": {
+    "url": "build-ko.mp4",
+    "duration": 49.9,
+    "steps": [
+     0.0,
+     2.9,
+     7.5,
+     12.0,
+     14.9,
+     24.4,
+     27.9,
+     38.4
+    ],
+    "rev": 1
+   }
   }
+ }
 }
